@@ -1,0 +1,50 @@
+*{
+    font-family: Verdana, Arial, sans-serif;
+    
+}
+body {
+    background-color: #EDECE9;
+}
+
+.logo {
+    width: 100%;
+}
+.d-flex {
+    display: flex;
+    list-style-type: none;
+}
+a {
+    
+   padding: 10px;
+   color: #EF7236;
+   left: 10px;
+   font-weight: bolder;
+   
+    
+}
+li {
+    font-size:x-large;
+    /* font-weight: bolder; */
+    
+}
+h1, p {
+    color: #744E42;
+}
+.title-color {
+    color: #E3D5CF;
+}
+.bck-color {
+    background-color: #744E42;
+}
+.scnd-list-color{
+    color: #744E42;
+    
+
+}
+.font-weight{
+    font-weight: 200;
+}
+.segirnos-color {
+    color: #D8B13B;
+}
+
